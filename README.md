@@ -1,5 +1,4 @@
-Minet: A User-level Network Stack
-=================================
+
 
 Copyright (c) 2000 by Peter A. Dinda
 
