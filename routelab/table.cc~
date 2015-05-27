@@ -1,0 +1,20 @@
+#include "table.h"
+
+/* The shortest paths calculation only use the link latencies*/
+#if defined(GENERIC)
+ostream & Table::Print(ostream &os) const
+{
+  // WRITE THIS
+  os << "Table()";
+  return os;
+}
+#endif
+
+#if defined(LINKSTATE)
+
+#endif
+
+#if defined(DISTANCEVECTOR)
+
+
+#endif
